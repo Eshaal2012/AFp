@@ -10,4 +10,4 @@ while playing:
         print("The number was",number)
         break
     else:
-        print("You loose. \n")
+        print("You loose,Try again next time. \n")
